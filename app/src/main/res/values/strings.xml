@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="parameter">Parameter</string>
+    <string name="open_activity_explicit_intent">Open activity (explicit intent)</string>
+    <string name="implicit_intents">Implicit intents</string>
+    <string name="open_the_browser">Open the browser</string>
+    <string name="call_a_number">Call a number</string>
+    <string name="open_the_dialer">Open the dialer</string>
+    <string name="pick_an_image">Pick an image</string>
+    <string name="choose_a_viewer">Choose a viewer</string>
+    <string name="open_activity">Open activity</string>
+    <string name="return_and_close">Return and close</string>
+</resources>
