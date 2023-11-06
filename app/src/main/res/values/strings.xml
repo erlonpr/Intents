@@ -10,4 +10,6 @@
     <string name="choose_a_viewer">Choose a viewer</string>
     <string name="open_activity">Open activity</string>
     <string name="return_and_close">Return and close</string>
+    <string name="permission_required_to_call">Permission required to call</string>
+    <string name="choose_your_favorite_browser">Choose your favorite browser</string>
 </resources>
